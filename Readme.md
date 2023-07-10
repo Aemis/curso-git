@@ -1,4 +1,4 @@
 # Curso de GitHub realizado em 10.07.2023
 
-Arquivo de aula de GitHub para iniciantes
-# Testando diff 
+Arquivo de aula de Git e GitHub para iniciantes.
+ 
